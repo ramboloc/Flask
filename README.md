@@ -1,0 +1,2 @@
+# Flask
+使用PythonFlask创建一个简单的API，它从JSON文件中检索数据以响应用户的请求
